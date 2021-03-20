@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhupesshhh
+- 👋 Hi, I’m Bhupesh from Mysterious Subcontinent of India
 - 👀 I’m interested in algorithmic way of interpretation of human world
 - 🌱 I’m currently learning Python and Cognitive Science
 - 💞️ I’m looking to collaborate on Cognitive Science Projects
