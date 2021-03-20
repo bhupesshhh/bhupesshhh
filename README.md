@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhupesshhh
 - 👀 I’m interested in algorithmic way of interpretation of human world
-- 🌱 I’m currently learning Python (ML and Artificial Neural Network) and Cognitive Science
+- 🌱 I’m currently learning Python and Cognitive Science
 - 💞️ I’m looking to collaborate on Cognitive Science Projects
 - 📫 Shoot me a email at bhupesshhh@gmail.com
 
