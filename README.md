@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Bhupesh from Mysterious Subcontinent of India
-- 👀 I’m interested in algorithmic way of interpretation of human world
-- 🌱 I’m currently learning Python and Cognitive Science
-- 💞️ I’m looking to collaborate on Cognitive Science Projects
+- 👋 Hi, Bhupesh here from India!
+- 👀 I’m interested in algorithmic way of interpretation of human world.
+- 🌱 I’m currently learning Python, Cognitive Science, Data Science and Machine Learning
 
 <!---
 bhupesshhh/bhupesshhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
