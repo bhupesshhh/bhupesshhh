@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="300" height="300" src="https://i.imgur.com/CPl2MTJ.jpeg">
-</p>
-
 <h1 align="center">Hi , Bhupesh here from India! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%232B74B8&lines=Aspiring+Philosopher;Cognitive+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Let's%20Learn%20Together&center=true&width=500&height=50"></a>
