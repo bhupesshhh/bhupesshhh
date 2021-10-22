@@ -55,13 +55,13 @@
 
 <h2 align="center"> :postbox: Connect With Me! :postbox: </h2>
 <p align="center">
-  <a href="bhupesshhh.github.io/"><img src="https://img.icons8.com/ios-filled/26/ffffff/adventures.png" alt="Website"/></a>
-	<a href="mailto:bhupesshhh@gmail.com"><img src="https://img.icons8.com/ios-filled/26/ffffff/filled-message.png" alt="Mail"/></a>
-	<a href="https://github.com/bhupesshhh"><img src="https://img.icons8.com/ios-filled/26/ffffff/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/bhupessshhh/"><img src="https://img.icons8.com/ios-filled/26/ffffff/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/bhupesshhh"><img src="https://img.icons8.com/ios-filled/26/ffffff/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/bhupesshhh"><img src="https://img.icons8.com/ios-filled/26/ffffff/instagram.png" alt="Instagram"/></a>
-  <a href="https://twitter.com/bhupesshhh"><img src="https://img.icons8.com/ios-filled/26/ffffff/twitter.png" alt="Twitter"/></a>
+<a href="bhupesshhh.github.io/"><img src="https://img.icons8.com/ios-filled/26/ffffff/adventures.png" alt="Website"/></a>
+<a href="mailto:bhupesshhh@gmail.com"><img src="https://img.icons8.com/ios-filled/26/ffffff/filled-message.png" alt="Mail"/></a>
+<a href="https://github.com/bhupesshhh"><img src="https://img.icons8.com/ios-filled/26/ffffff/github.png" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/bhupessshhh/"><img src="https://img.icons8.com/ios-filled/26/ffffff/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/bhupesshhh"><img src="https://img.icons8.com/ios-filled/26/ffffff/facebook-new.png" alt="Facebook"/></a>
+<a href="https://instagram.com/bhupesshhh"><img src="https://img.icons8.com/ios-filled/26/ffffff/instagram.png" alt="Instagram"/></a>
+<a href="https://twitter.com/bhupesshhh"><img src="https://img.icons8.com/ios-filled/26/ffffff/twitter.png" alt="Twitter"/></a>
 </p>
 <hr/>
 
