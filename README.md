@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300" height="300" src="https://i.imgur.com/CPl2MTJ.jpeg">
+</p>
+
 <h1 align="center">Hi , Bhupesh here from India! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%232B74B8&lines=Aspiring+Philosopher;Cognitive+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Let's%20Learn%20Together&center=true&width=500&height=50"></a>
@@ -10,10 +14,9 @@
 
 <h2 align="center"> 🔥 Quick Stats 🔥 </h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=bhupesshhh&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="bhupesshhh"  /></p>
-
+<hr/>
 <br>
-
-<h2 align="center"> 💿 Skillset 💿 </h2>
+<h2 align="center"> ⌨️ Skillset ⌨️ </h2>
 
 <h3 align="center"> #1. Coding Languages </h3> 
 <p align="center">
@@ -38,6 +41,7 @@
 	<a href=""><img src="https://img.icons8.com/ios-filled/40/ffffff/tableau-software.png" alt="Tableau"/></a>
 	<a href=""><img src="https://img.icons8.com/ios-filled/40/ffffff/atom-editor.png" alt="Atom-Editor"/></a>
 </p>
+<hr/>
 <br>
 
 <h2 align="center"> 📊 Github Overall Stats 📊 </h2>
@@ -50,16 +54,8 @@
 </a>
 </div>
 <br>
-<div align="center">
-<details align="center">
-  <summary align="center"><b align="center">Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/bhupesshhh"><img alt="Bhupesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bhupesshhh&custom_title=Bhupesh%20Chandrawanshi's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
-</div>
 
-<h2 align="center"> 📫 Connect With Me! 📫</h2>
+<h2 align="center"> :postbox: Connect With Me! :postbox: </h2>
 <p align="center">
   <a href="bhupesshhh.github.io/"><img src="https://img.icons8.com/ios-filled/26/ffffff/adventures.png" alt="Website"/></a>
 	<a href="mailto:bhupesshhh@gmail.com"><img src="https://img.icons8.com/ios-filled/26/ffffff/filled-message.png" alt="Mail"/></a>
@@ -71,8 +67,5 @@
 </p>
 <hr/>
 
-
-<!---
-bhupesshhh/bhupesshhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Credit: [bhupesshhh](https://github.com/bhupesshhh)
+* Last Edited on: 22/10/2021
