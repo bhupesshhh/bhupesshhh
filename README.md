@@ -5,7 +5,6 @@
 
 
 
-
 - 👋 Hi, Bhupesh here from India!
 - 👀 I’m interested in algorithmic way of interpretation of human world.
 - 🌱 I’m currently learning Python, Cognitive Science, Data Science and Machine Learning
