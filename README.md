@@ -6,12 +6,12 @@
 <hr/>
 <h4 align="center">I’m interested in algorithmic way of interpretation of human world. Currently exploring the filed of Python, Cognitive Science, Data Science, Machine Learning and Reinforcement Learning. My goal is to understand the nature of cognition and build intelligent systems. 
 </h4>
-<br>
+<br/>
 
 <h2 align="center"> 🔥 Quick Stats 🔥 </h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=bhupesshhh&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="bhupesshhh"  /></p>
 <hr/>
-<br>
+<br/>
 <h2 align="center"> ⌨️ Skillset ⌨️ </h2>
 
 <h3 align="center"> #1. Coding Languages </h3> 
@@ -38,18 +38,20 @@
 	<a href=""><img src="https://img.icons8.com/ios-filled/40/ffffff/atom-editor.png" alt="Atom-Editor"/></a>
 </p>
 <hr/>
-<br>
+<br/>
 
 <h2 align="center"> 📊 Github Overall Stats 📊 </h2>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhupesshhh&show_icons=true&count_private=true&theme=prussian" height="192px"/></a>
 </a>
+<br/>
+<br/>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupesshhh&show_icons=true&locale=en&layout=compact&theme=prussian" alt="bhupesshhh" height="192px"/>
 </a>
 </div>
-<br>
+<br/>
 
 <h2 align="center"> :postbox: Connect With Me! :postbox: </h2>
 <p align="center">
